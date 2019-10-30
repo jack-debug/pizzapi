@@ -1,4 +1,4 @@
-COUNTRY_USA = 'us'
+COUNTRY_USA = 'au'
 COUNTRY_CANADA = 'ca'
 
 class Urls(object):
